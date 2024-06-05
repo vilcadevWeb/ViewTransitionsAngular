@@ -1,0 +1,8 @@
+.h-size{
+  height: 96vh;
+}
+img{
+  width: 80px;
+  height: 80px;
+  view-transition-name: imgsapo;
+}
